@@ -2,3 +2,4 @@
 require("config.lazy")
 require("config.theme")
 require("config.linenumber-white")
+require("config.disabled-inlay-hint")
