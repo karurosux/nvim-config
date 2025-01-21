@@ -25,7 +25,7 @@ require("lazy").setup({
         require("supermaven-nvim").setup({
           keymaps = {
             accept_suggestion = "<C-a>",
-            clear_suggestion = "<C-]>",
+            clear_suggestion = "<C-c]>",
             accept_word = "<C-j>",
           },
           ignore_filetypes = { cpp = true }, -- or { "cpp", }
